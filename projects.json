@@ -42,14 +42,14 @@
     "status": 1
   },
   {
-      "title": "Zombieshooter",
+    "title": "Zombieshooter",
     "folder": "zombieshooter",
     "author": "Florian oberhumer",
     "year": "2025_WS",
     "status": 1
   },
   {
-      "title": "Arkenfall",
+    "title": "Arkenfall",
     "folder": "Arkenfall",
     "author": "Stefan Adlesgruber",
     "year": "2025_WS",
@@ -66,6 +66,13 @@
     "title": "Pokehunt",
     "folder": "Pokehunt",
     "author": "Maximilian Greifeneder",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "SwitchingPlatforms",
+    "folder": "SwitchingPlatforms",
+    "author": "Moritz Mueller",
     "year": "2025_WS",
     "status": 1
   }
