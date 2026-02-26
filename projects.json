@@ -13,14 +13,14 @@
     "year": "2025_WS",
     "status": 1
   },
-{  
-        "title": "Steelborn",
-        "folder": "Steelborn",
-        "author": "Anel Hrvacic",
-        "year": "2025_WS",
-        "info": "Hollow Knight Colosseum remake",
-        "status": "1"
-    },
+  {
+    "title": "Steelborn",
+    "folder": "Steelborn",
+    "author": "Anel Hrvacic",
+    "year": "2025_WS",
+    "info": "Hollow Knight Colosseum remake",
+    "status": "1"
+  },
   {
     "title": "Let me ruin your fun",
     "folder": "Let me ruin your fun",
@@ -35,14 +35,14 @@
     "year": "2025_WS",
     "status": 1
   },
-    {  
-        "title": "unknamend Zombie Shooter",
-        "folder": "zombieshooter",
-        "author": "Florian Oberhumer",
-        "year": "2032",
-        "info": "supper game",
-        "status": "0"
-    },
+  {
+    "title": "unknamend Zombie Shooter",
+    "folder": "zombieshooter",
+    "author": "Florian Oberhumer",
+    "year": "2032",
+    "info": "supper game",
+    "status": "0"
+  },
   {
     "title": "HyperKine",
     "folder": "HyperKine",
@@ -58,14 +58,14 @@
     "status": 1
   },
   {
-      "title": "Zombieshooter",
+    "title": "Zombieshooter",
     "folder": "zombieshooter",
     "author": "Florian oberhumer",
     "year": "2025_WS",
     "status": 1
   },
   {
-      "title": "Arkenfall",
+    "title": "Arkenfall",
     "folder": "Arkenfall",
     "author": "Stefan Adlesgruber",
     "year": "2025_WS",
@@ -82,6 +82,13 @@
     "title": "Pokehunt",
     "folder": "Pokehunt",
     "author": "Maximilian Greifeneder",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
+    "title": "SwitchingPlatforms",
+    "folder": "SwitchingPlatforms",
+    "author": "Moritz Mueller",
     "year": "2025_WS",
     "status": 1
   },
@@ -119,13 +126,13 @@
     "author": "Jakob Kaltenböck",
     "year": "2025_WS",
     "status": 1
-  }
-  {  
+  },
+  {
     "title": "Polybridge Fake",
     "folder": "Polybridge2.0",
     "author": "Hattinger",
     "year": "2025_WS",
     "info": "HAllo",
     "status": "0"
-  },
+  }
 ]
